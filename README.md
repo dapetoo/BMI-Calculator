@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-![BMI Calculator](https://github.com/dapetoo/BMI-Calculator/blob/master/flutter_01.png)
+![BMI Calculator](https://github.com/dapetoo/BMI-Calculator/blob/master/flutter_02.png)
+
 
 A few resources to get you started if this is your first Flutter project:
 
